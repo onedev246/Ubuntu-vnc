@@ -1,7 +1,7 @@
 # Ubuntu-vnc
 
 - apt update
-- apt install proot-distro && proot-distro install Ubuntu && proot-distro login Ubuntu && apt purge gvfs gvfs-daemons gvfs-libs gvfs-common && apt install mate && apt install tightvncserver && apt install mate-terminal
+- apt install proot-distro && proot-distro install ubuntu && proot-distro login ubuntu && apt purge gvfs gvfs-daemons gvfs-libs gvfs-common && apt install mate && apt install tightvncserver && apt install mate-terminal
 # root
 - adduser Rafa
 - apt install sudo nano
